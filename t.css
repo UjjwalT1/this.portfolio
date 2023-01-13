@@ -1,0 +1,31 @@
+.wlcontainer{
+    margin-top: 50px;
+    background-color: rgb(18, 59, 53);
+    width: 95%;
+    display: flex;
+
+    flex-direction: row;
+    padding: 30px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.wlcontainer img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    transition: .2s;
+    margin: 30px;
+}
+.wlcontainer a>img:hover{
+    scale: 1.1;
+}
+.wlcontainer>div{
+    margin: 30px;
+    border-radius: 20px;
+    flex:1;
+    background-color: #b3c6c6;
+    box-shadow: 2px 2px 4px #000000bd;
+
+}
