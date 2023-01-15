@@ -51,6 +51,9 @@ cert.forEach(e=>{
         else if(str=="Google KickStart"){
             target.innerHTML='<img src="photo/Google KS round G.jpg">'
         }
+        else if(str=="Python"){
+            target.innerHTML='<img src="photo/Python.jpg">'
+        }
     })
 
 })
