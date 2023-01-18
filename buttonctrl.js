@@ -28,7 +28,7 @@ btn.forEach(e=>{
             target.innerHTML='<span style="color: aliceblue; font-size: 1.7em;">'+str+'</span> <div style="background-color: aliceblue; width: 100%; height: 3px; margin: 3px 0 50px 0;"></div>Still Working...!'
         }
         else if(str=="Kotlin"){
-            target.innerHTML='<span style="color: aliceblue; font-size: 1.7em;">'+str+'</span> <div style="background-color: aliceblue; width: 100%; height: 3px; margin: 3px 0 50px 0;"></div>Language part is mostly done and know learning for android development'
+            target.innerHTML='<span style="color: aliceblue; font-size: 1.7em;">'+str+'</span> <div style="background-color: aliceblue; width: 100%; height: 3px; margin: 3px 0 50px 0;"></div>Language part is mostly done and now learning for android development'
         }
     })
 
